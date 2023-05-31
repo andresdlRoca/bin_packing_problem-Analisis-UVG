@@ -19,9 +19,9 @@ def bin_packing(items, bin_capacity):
 
     return bins
 
-# Example usage
-items = [2, 5, 4, 7, 1, 3, 8]
-bin_capacity = 20
-packed_items = bin_packing(items, bin_capacity)
-print("Packed items:", packed_items)
-print("Number of bins used:", len(packed_items))
+# # Example usage
+# items = [2, 5, 4, 7, 1, 3, 8]
+# bin_capacity = 20
+# packed_items = bin_packing(items, bin_capacity)
+# print("Packed items:", packed_items)
+# print("Number of bins used:", len(packed_items))
